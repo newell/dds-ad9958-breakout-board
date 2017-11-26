@@ -1,0 +1,80 @@
+unnamed_net79	C20-2 
+unnamed_net78	C20-1 
+unnamed_net77	C19-2 C18-2 C17-2 C16-2 C15-2 C14-2 C13-2 C12-2 C11-2 C10-2 C9-2 C1-2 C8-2 C7-2 C6-2 C5-2 C4-2 C3-2 C2-2 
+unnamed_net76	C19-1 C18-1 C17-1 C16-1 C15-1 C14-1 C13-1 C12-1 C11-1 C10-1 C9-1 C1-1 C8-1 C7-1 C6-1 C5-1 C4-1 C3-1 C2-1 
+unnamed_net75	BNC1-2 
+unnamed_net74	BNC1-1 U?-? 
+unnamed_net73	BNC0-2 
+unnamed_net72	BNC0-1 U?-? 
+unnamed_net71	R5-1 
+unnamed_net70	R6-1 
+unnamed_net69	T1-5 
+unnamed_net68	U?-? T1-4 
+unnamed_net67	T1-3 
+unnamed_net66	R5-2 T1-2 
+unnamed_net65	R6-2 T1-1 
+unnamed_net64	R3-1 
+unnamed_net63	R4-1 
+unnamed_net62	T0-5 
+unnamed_net61	U?-? T0-4 
+unnamed_net60	T0-3 
+unnamed_net59	R3-2 T0-2 
+unnamed_net58	R4-2 T0-1 
+GND	GND-1 
+unnamed_net57	C23-2 
+unnamed_net56	C22-2 
+unnamed_net55	C21-1 
+unnamed_net54	C21-2 R1-1 
+unnamed_net53	R2-1 
+unnamed_net52	U1-56 
+unnamed_net51	U1-55 
+unnamed_net50	SYNC_CLK-1 U1-54 
+unnamed_net49	SDIO_3-1 U1-53 
+unnamed_net48	SDIO_2-1 U1-52 
+unnamed_net47	SDIO_1-1 U1-51 
+unnamed_net46	SDIO_0-1 U1-50 
+unnamed_net45	DVDD_I/O-1 U1-49 
+unnamed_net44	SCLK-1 U1-48 
+unnamed_net43	\_CS\_-1 U1-47 
+unnamed_net42	I/O_UPDATE-1 U1-46 
+unnamed_net41	U1-45 
+unnamed_net40	U1-44 
+unnamed_net39	P3-1 U1-43 
+unnamed_net38	P2-1 U1-42 
+unnamed_net37	P1-1 U1-41 
+unnamed_net36	P0-1 U1-40 
+unnamed_net35	U1-39 
+unnamed_net34	U1-37 
+unnamed_net33	U1-36 
+unnamed_net32	U1-35 
+unnamed_net31	U1-33 
+unnamed_net30	U1-31 
+unnamed_net29	U1-30 
+unnamed_net28	VDD-1 U1-29 
+unnamed_net27	R1-2 U1-27 
+unnamed_net26	U1-26 
+unnamed_net25	U1-25 
+unnamed_net24	CMS-1 U1-24 
+unnamed_net23	R8-2 R8-1 C22-1 X1-1 U1-23 
+unnamed_net22	R7-2 R7-1 C23-1 X1-2 U1-22 
+unnamed_net21	U1-21 
+unnamed_net20	U1-20 
+unnamed_net19	U1-19 
+unnamed_net18	U1-18 
+unnamed_net17	R2-2 U1-17 
+unnamed_net16	U1-16 
+unnamed_net15	U1-15 
+unnamed_net14	U1-14 
+unnamed_net13	U1-13 
+unnamed_net12	U1-12 
+unnamed_net11	U1-11 
+unnamed_net10	U1-10 
+unnamed_net9	U1-9 
+unnamed_net8	U1-8 
+unnamed_net7	U1-7 
+unnamed_net6	U1-6 
+unnamed_net5	U1-5 
+unnamed_net4	PDWN-1 U1-4 
+unnamed_net3	RESET-1 U1-3 
+unnamed_net2	SYNC_OUT-1 U1-2 
+unnamed_net1	SYNC_IN-1 U1-1 

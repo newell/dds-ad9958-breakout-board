@@ -1,0 +1,4 @@
+schematics ad9958-bo1.sch ad9958-bo2.sch
+elements-dir /home/newell/code/footprints
+output-name ad9958-bo
+skip-m4
